@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/51236ffedd014168bbab2acf31ebe45f/artifacts
+end_time: 1761305041366
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 51236ffedd014168bbab2acf31ebe45f
+run_name: mysterious-seal-886
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761305040704
+status: 3
+tags: []
+user_id: kbari

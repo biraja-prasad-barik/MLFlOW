@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/886010517481628292/c03df3df1ba64b8d84f0d9db7fe3a0e8/artifacts
+end_time: 1761364080810
+entry_point_name: ''
+experiment_id: '886010517481628292'
+lifecycle_stage: active
+run_id: c03df3df1ba64b8d84f0d9db7fe3a0e8
+run_name: languid-deer-3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761364080337
+status: 3
+tags: []
+user_id: kbari

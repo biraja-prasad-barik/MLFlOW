@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/886010517481628292/2acbf324f5044097b9468e07c0813bd0/artifacts
+end_time: 1761306938611
+entry_point_name: ''
+experiment_id: '886010517481628292'
+lifecycle_stage: active
+run_id: 2acbf324f5044097b9468e07c0813bd0
+run_name: adorable-dove-20
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761306937997
+status: 3
+tags: []
+user_id: kbari

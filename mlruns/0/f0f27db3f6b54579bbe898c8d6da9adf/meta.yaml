@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f0f27db3f6b54579bbe898c8d6da9adf/artifacts
+deleted_time: 1761305182108
+end_time: 1761304153105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: f0f27db3f6b54579bbe898c8d6da9adf
+run_name: gentle-calf-161
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761304152839
+status: 4
+tags: []
+user_id: kbari

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/fe10edd29e9b4c8185fbdb55ff38f7cd/artifacts
+end_time: 1761284544927
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fe10edd29e9b4c8185fbdb55ff38f7cd
+run_name: mysterious-lark-830
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761284544805
+status: 3
+tags: []
+user_id: kbari

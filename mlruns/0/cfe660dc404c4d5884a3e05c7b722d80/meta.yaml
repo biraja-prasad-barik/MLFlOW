@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cfe660dc404c4d5884a3e05c7b722d80/artifacts
+deleted_time: 1761305182119
+end_time: 1761304101702
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: cfe660dc404c4d5884a3e05c7b722d80
+run_name: auspicious-lark-356
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761304100891
+status: 4
+tags: []
+user_id: kbari

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/886010517481628292/146db23d60974097822bc539290336e4/artifacts
+end_time: 1761452976767
+entry_point_name: ''
+experiment_id: '886010517481628292'
+lifecycle_stage: active
+run_id: 146db23d60974097822bc539290336e4
+run_name: melodic-vole-950
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761452967126
+status: 3
+tags: []
+user_id: kbari

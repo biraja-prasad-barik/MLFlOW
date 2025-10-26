@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4e00420a2f5f4a69931e738467d0f275/artifacts
+end_time: 1761305445462
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4e00420a2f5f4a69931e738467d0f275
+run_name: honorable-hawk-955
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761305444921
+status: 3
+tags: []
+user_id: kbari
