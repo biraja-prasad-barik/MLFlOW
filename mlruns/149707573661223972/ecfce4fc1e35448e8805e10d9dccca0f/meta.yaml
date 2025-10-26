@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/ecfce4fc1e35448e8805e10d9dccca0f/artifacts
+end_time: 1761489621135
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: ecfce4fc1e35448e8805e10d9dccca0f
+run_name: classy-jay-980
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489621066
+status: 3
+tags: []
+user_id: kbari

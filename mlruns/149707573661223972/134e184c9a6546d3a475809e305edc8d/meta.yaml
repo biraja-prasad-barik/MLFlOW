@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/134e184c9a6546d3a475809e305edc8d/artifacts
+end_time: 1761489400087
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 134e184c9a6546d3a475809e305edc8d
+run_name: incongruous-toad-353
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489400030
+status: 3
+tags: []
+user_id: kbari

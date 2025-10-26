@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/59f022d04b7b4588a97da0d41dfa62ef/artifacts
+end_time: 1761489399965
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 59f022d04b7b4588a97da0d41dfa62ef
+run_name: big-eel-497
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489399911
+status: 3
+tags: []
+user_id: kbari

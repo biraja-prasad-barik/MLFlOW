@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/167c8db4229a44bfb0861425fdc348dd/artifacts
+end_time: 1761470238123
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 167c8db4229a44bfb0861425fdc348dd
+run_name: funny-squid-36
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761470238063
+status: 3
+tags: []
+user_id: kbari

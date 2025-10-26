@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/e0bc67c5cc29485f80562222edbbff85/artifacts
+end_time: 1761489630122
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: e0bc67c5cc29485f80562222edbbff85
+run_name: bald-pug-243
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489621266
+status: 3
+tags: []
+user_id: kbari

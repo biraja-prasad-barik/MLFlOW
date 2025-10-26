@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/15e4c573651f4f94bd743fcdbdf5c8ac/artifacts
+end_time: 1761489414994
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 15e4c573651f4f94bd743fcdbdf5c8ac
+run_name: aged-bee-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489400379
+status: 3
+tags: []
+user_id: kbari

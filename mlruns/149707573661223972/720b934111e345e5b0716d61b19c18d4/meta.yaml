@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/720b934111e345e5b0716d61b19c18d4/artifacts
+end_time: 1761470238649
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 720b934111e345e5b0716d61b19c18d4
+run_name: nervous-lynx-784
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761470238586
+status: 3
+tags: []
+user_id: kbari

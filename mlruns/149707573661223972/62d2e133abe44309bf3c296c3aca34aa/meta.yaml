@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/62d2e133abe44309bf3c296c3aca34aa/artifacts
+end_time: 1761489621261
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 62d2e133abe44309bf3c296c3aca34aa
+run_name: nimble-kite-983
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489612809
+status: 3
+tags: []
+user_id: kbari

@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/ed030d2f04944462be48200daafe34ee/artifacts
+end_time: 1761489399907
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: ed030d2f04944462be48200daafe34ee
+run_name: upset-fly-122
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489399848
+status: 3
+tags: []
+user_id: kbari

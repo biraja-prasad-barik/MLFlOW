@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/15a0b83e6bc94322a3989ab361158333/artifacts
+end_time: 1761489400153
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 15a0b83e6bc94322a3989ab361158333
+run_name: valuable-stoat-158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489400091
+status: 3
+tags: []
+user_id: kbari

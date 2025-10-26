@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/c9857899aa394c3dbfb4c8a0d537b455/artifacts
+end_time: 1761489620942
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: c9857899aa394c3dbfb4c8a0d537b455
+run_name: suave-finch-739
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489620891
+status: 3
+tags: []
+user_id: kbari

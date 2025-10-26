@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/2728c422e5e14b0981a7f9f31fa7326e/artifacts
+end_time: 1761470238778
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 2728c422e5e14b0981a7f9f31fa7326e
+run_name: unleashed-stag-561
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761470229938
+status: 3
+tags: []
+user_id: kbari

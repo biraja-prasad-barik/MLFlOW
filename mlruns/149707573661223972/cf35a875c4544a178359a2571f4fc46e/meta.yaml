@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/cf35a875c4544a178359a2571f4fc46e/artifacts
+end_time: 1761489620826
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: cf35a875c4544a178359a2571f4fc46e
+run_name: bittersweet-owl-245
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489620770
+status: 3
+tags: []
+user_id: kbari

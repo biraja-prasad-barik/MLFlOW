@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/994d5847c0c04473911ac9edf33a4286/artifacts
+end_time: 1761489621259
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 994d5847c0c04473911ac9edf33a4286
+run_name: intelligent-fawn-168
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489621204
+status: 3
+tags: []
+user_id: kbari

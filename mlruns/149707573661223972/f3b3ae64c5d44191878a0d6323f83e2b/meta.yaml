@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/f3b3ae64c5d44191878a0d6323f83e2b/artifacts
+end_time: 1761489400026
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: f3b3ae64c5d44191878a0d6323f83e2b
+run_name: carefree-cow-988
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489399969
+status: 3
+tags: []
+user_id: kbari

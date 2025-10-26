@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/3e2978ab29c64a81bf201f7d47559065/artifacts
+end_time: 1761469323422
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 3e2978ab29c64a81bf201f7d47559065
+run_name: amusing-trout-780
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761469315582
+status: 3
+tags: []
+user_id: kbari

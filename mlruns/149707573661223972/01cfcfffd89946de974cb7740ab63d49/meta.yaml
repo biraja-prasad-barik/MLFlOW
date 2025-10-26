@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/01cfcfffd89946de974cb7740ab63d49/artifacts
+end_time: 1761489400374
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 01cfcfffd89946de974cb7740ab63d49
+run_name: resilient-wolf-541
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489391725
+status: 3
+tags: []
+user_id: kbari

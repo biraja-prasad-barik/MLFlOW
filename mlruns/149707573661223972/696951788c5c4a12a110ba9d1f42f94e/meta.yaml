@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/696951788c5c4a12a110ba9d1f42f94e/artifacts
+end_time: 1761489620582
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 696951788c5c4a12a110ba9d1f42f94e
+run_name: placid-pug-124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489620434
+status: 3
+tags: []
+user_id: kbari

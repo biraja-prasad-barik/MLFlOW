@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/8f94d19f6ec34b4aa6be3b52cae9f0ab/artifacts
+end_time: 1761489621061
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 8f94d19f6ec34b4aa6be3b52cae9f0ab
+run_name: zealous-duck-514
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489621005
+status: 3
+tags: []
+user_id: kbari

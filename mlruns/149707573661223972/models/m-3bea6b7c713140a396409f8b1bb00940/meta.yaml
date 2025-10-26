@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/models/m-3bea6b7c713140a396409f8b1bb00940/artifacts
+creation_timestamp: 1761489621420
+experiment_id: '149707573661223972'
+last_updated_timestamp: 1761489629181
+model_id: m-3bea6b7c713140a396409f8b1bb00940
+model_type: null
+name: random_forest
+source_run_id: e0bc67c5cc29485f80562222edbbff85
+status: 2
+status_message: null

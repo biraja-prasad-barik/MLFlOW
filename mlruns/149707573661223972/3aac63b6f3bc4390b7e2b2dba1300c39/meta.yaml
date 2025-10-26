@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/3aac63b6f3bc4390b7e2b2dba1300c39/artifacts
+end_time: 1761489620887
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: active
+run_id: 3aac63b6f3bc4390b7e2b2dba1300c39
+run_name: clean-finch-236
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761489620831
+status: 3
+tags: []
+user_id: kbari

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/kbari/OneDrive/Desktop/ML%20OPS/MLFlOW/mlruns/149707573661223972/34fe3ed018364f7fbe27b57e0755a28c/artifacts
+deleted_time: 1761470209962
+end_time: 1761470071781
+entry_point_name: ''
+experiment_id: '149707573661223972'
+lifecycle_stage: deleted
+run_id: 34fe3ed018364f7fbe27b57e0755a28c
+run_name: judicious-kite-91
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761470063477
+status: 4
+tags: []
+user_id: kbari
